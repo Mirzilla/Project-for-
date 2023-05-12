@@ -1,0 +1,6 @@
+export const ADMIN_ROUTE = '/admin'
+export const LOGIN_ROUTE = '/login'
+export const REGISTRATION_ROUTE = '/registration'
+export const WIKI_ROUTE = '/'
+export const HERO_ROUTE = '/hero'
+export const MODE_ROUTE = '/mode'
